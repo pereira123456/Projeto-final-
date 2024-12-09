@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', () => {
     const artistasList = document.getElementById('artistasList');
     const artistaSelecionado = document.getElementById('artistaSelecionado');
